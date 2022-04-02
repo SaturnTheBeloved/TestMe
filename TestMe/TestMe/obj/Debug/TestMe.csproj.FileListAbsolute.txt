@@ -1,0 +1,11 @@
+C:\Users\jaybu\source\repos\TestMe\TestMe\bin\Debug\TestMe.exe.config
+C:\Users\jaybu\source\repos\TestMe\TestMe\bin\Debug\TestMe.exe
+C:\Users\jaybu\source\repos\TestMe\TestMe\bin\Debug\TestMe.pdb
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.csproj.AssemblyReference.cache
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.Form1.resources
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.Properties.Resources.resources
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.csproj.GenerateResource.cache
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.csproj.CoreCompileInputs.cache
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.exe
+C:\Users\jaybu\source\repos\TestMe\TestMe\obj\Debug\TestMe.pdb
